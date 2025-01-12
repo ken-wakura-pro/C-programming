@@ -1,0 +1,3 @@
+*.txt		# text files used for testing
+*.out		# Executables generated after compling the .c source files
+

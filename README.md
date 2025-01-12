@@ -1,1 +1,1 @@
-The ANSI C Programming exercises and projects
+The C Programming exercises and projects
